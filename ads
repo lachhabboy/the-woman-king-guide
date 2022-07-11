@@ -11,7 +11,7 @@
 			"BannerFacebook": "741455213771694_741457277104821",
 			"InterstitialFacebook": "741455213771694_741457557104793",
 			
-			"unityGameID": "4832998",
+			"unityGameID": "7ed6d6f1-3d62-4e1d-b426-122b87c0d5c9",
 			"UnityPlacement": "Interstitial_Android",
 
 			"StartappAds": "206888771",
